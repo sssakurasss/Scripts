@@ -25,7 +25,7 @@ ___
 + [Информация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Статистика](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автолайк](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
-+ [Авторекомандации](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Авторекомендации](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоувед](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоприем](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоонлайн](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
